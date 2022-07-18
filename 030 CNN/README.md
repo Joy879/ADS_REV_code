@@ -7,6 +7,7 @@ Before working with Neural networks on images we at least need to do feature ext
 
 ### Convolution
 It first takes the images through _convolutions (filters)_ where it tries to extract the mosi important features to create a feature map
+
 ![Convolution_schematic](https://user-images.githubusercontent.com/70502261/179571885-9ee9ec20-5e03-4ce8-8b18-216167cef582.gif)
 
 ### Pooling
@@ -16,4 +17,10 @@ The new feature map is pooled down into a smaller set of pixels to reduce it's s
 
 ### Flatten
 The pooled feature is then flattened into a vector. This new vector will be fed to the hidden layer
+
+
 ![](https://1.bp.blogspot.com/-8izI66c0jcg/YKeD_sx55mI/AAAAAAAANjg/wg69J8ZqEucwCcTuQAtd4WJwnKdLLbjEgCLcBGAsYHQ/s0/flattening.jpg)
+
+
+### Full architechture 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4_IJjj1tyMsD8CIkJ9vr-gHaCd%26pid%3DApi&f=1)
