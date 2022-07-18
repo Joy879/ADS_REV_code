@@ -31,3 +31,4 @@ The pooled feature is then flattened into a vector. This new vector will be fed 
 * [MIT intro to computer vision](http://introtodeeplearning.com/2020/slides/6S191_MIT_DeepLearning_L3.pdf)
 * [More Youtube playlists](https://www.youtube.com/results?search_query=deep+learning+for+computer+vision)
 * [Applications of computer vision in Agriculture](https://viso.ai/applications/computer-vision-in-agriculture/)
+*  [Case studies from Omdena](https://omdena.com/tag/object-detection/)
