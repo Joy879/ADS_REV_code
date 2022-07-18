@@ -9,3 +9,9 @@ A NN can be thought to have three layers: Input, Hidden and Output layer
 
 The architechture of deep learning models varies and for each type we can have different tasks accomplished. 
 For example [CNNs](https://github.com/Joy879/ADS_REV_code/tree/main/030%20CNN) for computer vision and [RNNs](https://github.com/Joy879/ADS_REV_code/tree/main/031%20RNN) for sequntial data.
+
+## Learning resources
+
+* [MIT intro to deep learning](http://introtodeeplearning.com/2020/index.html)
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
+* [More resources](https://github.com/wanjiru517/Resources)
