@@ -24,3 +24,10 @@ The pooled feature is then flattened into a vector. This new vector will be fed 
 
 ### Full architechture 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4_IJjj1tyMsD8CIkJ9vr-gHaCd%26pid%3DApi&f=1)
+
+
+### Learn more
+
+* [MIT intro to computer vision](http://introtodeeplearning.com/2020/slides/6S191_MIT_DeepLearning_L3.pdf)
+* [More Youtube playlists](https://www.youtube.com/results?search_query=deep+learning+for+computer+vision)
+* [Applications of computer vision in Agriculture](https://viso.ai/applications/computer-vision-in-agriculture/)
