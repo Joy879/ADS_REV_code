@@ -1,7 +1,7 @@
 ## Big  Data
 
 ## Resources
-* [Link to Colab Notebook I used in class](https://colab.research.google.com/github/Heytec/ADS_REV_code/blob/main/034%20Lesson%20%20Big%20Data%20with%20Apache%20%20Spark/Big_Data_Analysis_%26_ML_With_Apache_Spark(Python).ipynb#scrollTo=A1O2TfeWZqUr)
+* [Link to Colab Notebook I used in class](https://colab.research.google.com/drive/1E2tNmfp5wlcaT6R8Izcmn3w2txIx8qqm)
 * [Datatalks club - Data Engineering zoomcamp playlist](https://www.youtube.com/watch?v=bkJZDmreIpA&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 * [Datatalks club - Data Engineering zoomcamp github notes](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
