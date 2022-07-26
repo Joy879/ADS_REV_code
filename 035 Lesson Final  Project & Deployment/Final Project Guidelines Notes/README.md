@@ -19,6 +19,6 @@ In order to get do the exam for free, you have to register for and attend the _v
 
 The following virtual training days are available:
 
-* [Tuesday, 9 August 2022, 21:OO PM to 00:45 AM](https://mktoevents.com/Microsoft+Event/349441/157-GQE-382)
-* [Monday , 29 August 2022, 5:00 PM to 19:45 PM](https://mktoevents.com/Microsoft+Event/349761/157-GQE-382)
+* [Tuesday, 9 August 2022, 21:00 PM to 00:45 AM](https://mktoevents.com/Microsoft+Event/349441/157-GQE-382)
+* [Monday , 29 August 2022, 17:00 PM to 19:45 PM](https://mktoevents.com/Microsoft+Event/349761/157-GQE-382)
 * [Wednesday, 31 August 2022, 10:30 AM to 14:00 PM](https://mktoevents.com/Microsoft+Event/349346/157-GQE-382)
