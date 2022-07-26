@@ -1,8 +1,9 @@
 ## FINAL PROJECT RESOURCES
 
 You are supposed to do your final project for 3 months
-          *  Start date  August 1st 2022
-          *  End date October 31st 2022
+
+ * Start date  August 1st 2022
+ *  End date October 31st 2022
 
 The final submission should be the link to your GitHub repository. 
 Submissions will be made on Dexvirtual.
