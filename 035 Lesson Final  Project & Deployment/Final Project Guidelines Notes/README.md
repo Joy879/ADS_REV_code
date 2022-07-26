@@ -14,7 +14,7 @@ In order to get do the exam for free, you have to register for and attend the _v
 - [ ] Please use [Pearson VUE](https://go.microsoft.com/fwlink/?linkid=2187546) to schedule the exam
 - [ ] You have _90 days_ after the event to schedule and sit for the exam.
 - [ ] The exam will be monitored online by an individual, that means on the day of the exam , you have good internet connection and a laptop with a camera.
-- [ ] I am diplaying the timezone 👇 in EAT(GMT+3)
+- [ ] I am displaying the timezone 👇 in EAT(GMT+3)
 
 
 The following virtual training days are available:
