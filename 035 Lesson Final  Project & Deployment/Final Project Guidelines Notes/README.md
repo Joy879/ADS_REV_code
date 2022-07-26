@@ -14,6 +14,15 @@ Within GitHub please include:
 - [ ] A presentation slide for the project (if any)
 - [ ] A README.md containing a detailed description of what the project entails
 
+You can check out these simple guides on how to do ML projects:
+* [How to develop unique project ideas](https://towardsdatascience.com/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b)
+* [Problem Framing by google](https://developers.google.com/machine-learning/problem-framing)
+
+These are resource platforms
+* [My resources page](https://github.com/wanjiru517/Resources)
+* [Ml from scratch](https://mlfromscratch.com/tag/machine-learning/)
+* [Towards data science](https://towardsdatascience.com/)
+* [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 
 ## EXAM RESOURCES
