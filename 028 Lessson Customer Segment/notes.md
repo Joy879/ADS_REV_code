@@ -11,6 +11,8 @@ In B2B, a company might segment customers according to a wide range of factors, 
 * Number of employees
 * Products previously purchased from the company
 * Location
+
+
 [Read more](https://surveysparrow.com/blog/customer-segmentation-examples/#subsection1)
 
 In B2C marketing, companies often segment customers according to _demographics_ that include:
@@ -20,6 +22,8 @@ In B2C marketing, companies often segment customers according to _demographics_ 
 * Marital status
 * Location (urban, suburban, rural)
 * Life stage (single, married, divorced, empty-nester, retired, etc.)
+
+
 [Read More](https://profiletree.com/customer-segmentation/)
 
 #### Why Segment Customers?
