@@ -2,7 +2,7 @@
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 It has been _majorly_ :sweat_smile: (not a very statistical term to use)  said that the kind of segmentation strategy to use depends on the type of target market. There are two groups:
 * [Business to Business (B2B)](https://www.investopedia.com/terms/b/btob.asp)
-* [Business to Consumer (B2C)}(https://www.investopedia.com/terms/b/btoc.asp)
+* [Business to Consumer (B2C)](https://www.investopedia.com/terms/b/btoc.asp)
 
 
 In B2B, a company might segment customers according to a wide range of factors, including:
