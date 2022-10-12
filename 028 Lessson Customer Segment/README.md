@@ -30,3 +30,7 @@ Segmentation allows marketers to better tailor their marketing efforts to variou
 * Focus on the most profitable customers.
 * Improve customer service.
 * Upsell and cross-sell other products and services.
+
+#### How to segment customers?
+
+![](https://paragraphs.com/wp-content/uploads/2017/09/product-segmentation.png)
