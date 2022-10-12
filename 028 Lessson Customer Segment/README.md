@@ -1,6 +1,8 @@
 ## Customer Segmentation
 
 Read the notes [here](https://github.com/Joy879/ADS_REV_code/blob/main/028%20Lessson%20Customer%20Segment/notes.md)
+
+
 In the notebook shared above  the goals were as follows:
 * Use [pandas profiling](https://github.com/ydataai/pandas-profiling/blob/master/README.md) for EDA
 * Isolate customers by region
@@ -17,3 +19,5 @@ In the notebook shared above  the goals were as follows:
 
 ##### 3. Apart from RFM what other segmentation techniques can be applied to this dataset
 ##### 4. Explore common behaviours/patterns between the customer groups. e.g. What products do they buy, is their purchase seasonal, monthly revenue per customer group and more. You can also attempt to redo [this analysis](https://github.com/Heytec/ADS_REV_code/blob/main/011%20lesson%20Retail%20%20analytics/Retail_Customer_Analysis.ipynb) from the customer groups perspective
+
+![0_e96XI76qxfYgTZcJ](https://user-images.githubusercontent.com/70502261/195412876-9525b152-1886-40c0-8c41-5f9310c33439.png)
