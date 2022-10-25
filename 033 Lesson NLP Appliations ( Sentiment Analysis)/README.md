@@ -1,5 +1,5 @@
 
-NLP is fast becoming one of the pivotal points for AGI to be developed on. As such we need to know how to work with pre-trained large language models for specific use cases. If you don't know what a transfomer model is, please read this [blog](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/) or watch this [video](https://www.youtube.com/watch?v=TQQlZhbC5ps). 
+NLP is fast becoming one of the pivotal points for AGI to be developed on. As such we need to know how to work with pre-trained large language models for specific use cases. If you don't know what a transfomer model is, please read this [blog](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/) or watch this [video](https://www.youtube.com/watch?v=TQQlZhbC5ps) or peruse through these [slides](https://www.slideshare.net/darvind/nlp-using-transformers?qid=7654e4cb-bba0-44dc-bbae-2eb7d12eb2a3&v=&b=&from_search=5). 
 
 ## Resources
 * [Spacy Intro course](https://course.spacy.io/)
