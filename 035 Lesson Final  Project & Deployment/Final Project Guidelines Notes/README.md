@@ -46,3 +46,8 @@ The following virtual training days are available:
 * [Tuesday, 9 August 2022, 21:00 PM to 00:45 AM](https://mktoevents.com/Microsoft+Event/349441/157-GQE-382)
 * [Monday , 29 August 2022, 17:00 PM to 20:45 PM](https://mktoevents.com/Microsoft+Event/349761/157-GQE-382)
 * [Wednesday, 31 August 2022, 10:30 AM to 14:00 PM](https://mktoevents.com/Microsoft+Event/349346/157-GQE-382)
+
+
+
+
+if you are not comfortable with the above times please loo through this [list](https://mvtd.events.microsoft.com/Azure?azureevent=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals) to find the most suitable day
