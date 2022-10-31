@@ -3,7 +3,7 @@
 You are supposed to do your final end to end project covering the [data science lifecycle/CRISP-DM framework](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png) for 3 months
 
  * Start date  _November 1st 2022_
- * End date _January 31st 2022_
+ * End date _January 31st 2023_
 
 The final submission should be the link to your GitHub repository. 
 Submissions will be made on Dexvirtual.
