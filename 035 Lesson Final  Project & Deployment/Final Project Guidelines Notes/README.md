@@ -1,6 +1,6 @@
 ## FINAL PROJECT RESOURCES
 
-You are supposed to do your final project for 3 months
+You are supposed to do your final end to end project covering the [data science lifecycle/CRISP-DM framework]() for 3 months
 
  * Start date  _November 1st 2022_
  * End date _January 31st 2022_
@@ -24,6 +24,8 @@ These are resource platforms
 * [Towards data science](https://towardsdatascience.com/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
+
+You can also take a look at former student projects here
 
 ## EXAM RESOURCES
 
