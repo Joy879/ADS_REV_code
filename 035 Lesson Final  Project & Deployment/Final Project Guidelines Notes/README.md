@@ -2,8 +2,8 @@
 
 You are supposed to do your final project for 3 months
 
- * Start date  August 1st 2022
- *  End date October 31st 2022
+ * Start date  November 1st 2022
+ * End date January 31st 2022
 
 The final submission should be the link to your GitHub repository. 
 Submissions will be made on Dexvirtual.
@@ -43,11 +43,11 @@ In order to get do the exam for free, you have to register for and attend the _v
 
 The following virtual training days are available:
 
-* [Tuesday, 9 August 2022, 21:00 PM to 00:45 AM](https://mktoevents.com/Microsoft+Event/349441/157-GQE-382)
-* [Monday , 29 August 2022, 17:00 PM to 20:45 PM](https://mktoevents.com/Microsoft+Event/349761/157-GQE-382)
-* [Wednesday, 31 August 2022, 10:30 AM to 14:00 PM](https://mktoevents.com/Microsoft+Event/349346/157-GQE-382)
+* [Tuesday, 8 November 2022, 3:00 PM to 6:30 PM](https://mktoevents.com/Microsoft+Event/360813/157-GQE-382?source=mvtd)
+* [Tuesday, 8 November 2022, 8:00 PM to 11:45 PM](https://mktoevents.com/Microsoft+Event/361600/157-GQE-382?source=mvtd)
+* [Wednesday , 9 November 2022, 6:00 PM to 9:45 PM](https://mktoevents.com/Microsoft+Event/362706/157-GQE-382)
+* [Thursday, 1 December 2022, 1:00 PM to 4:35 PM](https://mktoevents.com/Microsoft+Event/364660/157-GQE-382?source=mvtd)
 
 
 
-
-if you are not comfortable with the above times please loo through this [list](https://mvtd.events.microsoft.com/Azure?azureevent=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals) to find the most suitable day
+if you are not comfortable with the above times please look through this [list](https://mvtd.events.microsoft.com/Azure?azureevent=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals) to find the most suitable day
