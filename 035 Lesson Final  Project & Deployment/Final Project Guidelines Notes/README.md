@@ -2,8 +2,8 @@
 
 You are supposed to do your final project for 3 months
 
- * Start date  November 1st 2022
- * End date January 31st 2022
+ * Start date  _November 1st 2022_
+ * End date _January 31st 2022_
 
 The final submission should be the link to your GitHub repository. 
 Submissions will be made on Dexvirtual.
