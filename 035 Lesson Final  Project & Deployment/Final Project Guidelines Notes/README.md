@@ -25,7 +25,7 @@ These are resource platforms
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 
-You can also take a look at former student projects here
+You can also take a look at former student projects [here](https://github.com/Joy879/ADS_REV_code/blob/main/035%20Lesson%20Final%20%20Project%20%26%20Deployment/Final%20Project%20Guidelines%20Notes/Former%20students%20project.ipynb)
 
 ## EXAM RESOURCES
 
