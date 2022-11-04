@@ -1,4 +1,4 @@
-﻿# ADS Data Science Content 
+# ADS Data Science Content 
 
 
 
