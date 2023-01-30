@@ -12,6 +12,6 @@ For example [CNNs](https://github.com/Joy879/ADS_REV_code/tree/main/030%20CNN) f
 
 ## Learning resources
 
-* [MIT intro to deep learning](http://introtodeeplearning.com/2020/index.html)
+* [MIT intro to deep learning](http://introtodeeplearning.com/index.html)
 * [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 * [More resources](https://github.com/wanjiru517/Resources)
