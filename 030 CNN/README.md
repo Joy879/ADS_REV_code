@@ -6,7 +6,7 @@ Before working with Neural networks on images we at least need to do feature ext
 
 
 ### Convolution
-It first takes the images through _convolutions (filters)_ where it tries to extract the mosi important features to create a feature map
+It first takes the images through _convolutions (filters)_ where it tries to extract the most important features to create a feature map
 
 ![Convolution_schematic](https://user-images.githubusercontent.com/70502261/179571885-9ee9ec20-5e03-4ce8-8b18-216167cef582.gif)
 
