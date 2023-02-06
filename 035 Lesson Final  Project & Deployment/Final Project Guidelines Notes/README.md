@@ -25,6 +25,7 @@ These are resource platforms
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 You can get inspired by galleries from [streamlit](https://streamlit.io/gallery) or [dash](https://dash.gallery/Portal/).
+Also see [this sample trading project](https://akurgat-automating-technical-analysis-trade-qn1uzx.streamlit.app/) from a former student. Their [Github link](https://github.com/akurgat/automating-technical-analysis)
 
 Remember the goal is to learn as you do. Aim for working solutions that you fully understand and can reimplement for others.
 
