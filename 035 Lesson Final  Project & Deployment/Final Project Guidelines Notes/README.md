@@ -2,8 +2,8 @@
 
 You are supposed to do your final end to end project covering the [data science lifecycle/CRISP-DM framework](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png) for 3 months
 
- * Start date  <strong>November 1st 2022</strong>
- * End date <strong>January 31st 2023</strong>
+ * Start date  <strong>February 6th 2023</strong>
+ * End date <strong>May 8th 2023</strong>
 
 The final submission should be the link to your GitHub repository. 
 Submissions will be made on Dexvirtual.
@@ -12,7 +12,7 @@ Within GitHub please include:
 - [ ] your project code files
 - [ ] a link to your dashboard in the About section
 - [ ] A presentation slide for the project (if any)
-- [ ] A README.md containing a detailed description of what the project entails
+- [ ] A README.md containing a detailed description of what the project entails. Ensure it includes the title of the project, and subsections detailing what you did in each phase of the CRISP-DM lifecycle. You can also highlight challenges you faced, possible solutions, and future plans.
 
 You can check out these simple guides on how to do ML projects:
 * [How to develop unique project ideas](https://towardsdatascience.com/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b)
@@ -24,7 +24,9 @@ These are resource platforms
 * [Towards data science](https://towardsdatascience.com/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
-You can get inspired by galleries from [streamlit](https://streamlit.io/gallery) or [dash](https://dash.gallery/Portal/). Remember the goal is to learn as you do. Aim for working solutions that you fully understand and can reimplement for others.
+You can get inspired by galleries from [streamlit](https://streamlit.io/gallery) or [dash](https://dash.gallery/Portal/).
+
+Remember the goal is to learn as you do. Aim for working solutions that you fully understand and can reimplement for others.
 
 ## EXAM RESOURCES
 
