@@ -45,11 +45,9 @@ In order to get do the exam for free, you have to register for and attend the <s
 
 The following virtual training days are available:
 
-* [Tuesday, 8 November 2022, 3:00 PM to 6:30 PM](https://mktoevents.com/Microsoft+Event/360813/157-GQE-382?source=mvtd)
-* [Tuesday, 8 November 2022, 8:00 PM to 11:45 PM](https://mktoevents.com/Microsoft+Event/361600/157-GQE-382?source=mvtd)
-* [Wednesday , 9 November 2022, 6:00 PM to 9:45 PM](https://mktoevents.com/Microsoft+Event/362706/157-GQE-382)
-* [Thursday, 1 December 2022, 1:00 PM to 4:35 PM](https://mktoevents.com/Microsoft+Event/364660/157-GQE-382?source=mvtd)
+* [Tuesday, 21 February 2023, 12:00 PM to 3:40 PM](https://mktoevents.com/Microsoft+Event/370861/157-GQE-382?wt.mc_id=eventscatalog)
+* [Thursday, 2 March 2023, 6:30 AM to 10:00 AM](https://mktoevents.com/Microsoft+Event/378992/157-GQE-382?wt.mc_id=eventscatalog)
 
 
 
-if you are not comfortable with the above times please look through this [list](https://mvtd.events.microsoft.com/Azure?azureevent=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals) to find the most suitable day
+if you are not comfortable with the above times please look through this [list](https://events.microsoft.com/en-us/mvtd-azure?search=Microsoft%20Azure%20Virtual%20Training%20Day:%20AI%20Fundamentals&language=English&clientTimeZone=1&startTime=03:15&endTime=23:59) to find the most suitable day
