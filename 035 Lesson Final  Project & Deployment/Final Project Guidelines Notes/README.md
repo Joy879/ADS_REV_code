@@ -2,8 +2,8 @@
 
 You are supposed to do your final end to end project covering the [data science lifecycle/CRISP-DM framework](https://user-images.githubusercontent.com/91478331/149301815-2c4e6abc-e157-430b-8479-c7f579800c52.png) for 3 months
 
- * Start date  <strong>February 6th 2023</strong>
- * End date <strong>May 8th 2023</strong>
+ * Start date  <strong>May 8th 2023</strong>
+ * End date <strong>August 8th 2023</strong>
 
 The final submission should be the link to your GitHub repository. 
 Submissions will be made on Dexvirtual.
@@ -18,37 +18,44 @@ You can check out these simple guides on how to do ML projects:
 * [How to develop unique project ideas](https://towardsdatascience.com/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b)
 * [Problem Framing by google](https://developers.google.com/machine-learning/problem-framing)
 
+Also for data sourcing:
+* [Complete collection of data repositories](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html)
+* [API sources](https://rapidapi.com/collection/list-of-free-apis)
+
+Don't know what an API is?
+* [API introduction](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
+
 These are resource platforms
+* [AIPlanet](https://aiplanet.com/courses)
+* [DataHour Youtube](https://www.youtube.com/playlist?list=PLdKd-j64gDcDv3qhAveXqBQQKbDktkfRX)
+* [Datatalks club](https://datatalks.club/)
 * [My resources page](https://github.com/wanjiru517/Resources)
 * [Ml from scratch](https://mlfromscratch.com/tag/machine-learning/)
 * [Towards data science](https://towardsdatascience.com/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
+
+
 
 You can get inspired by galleries from [streamlit](https://streamlit.io/gallery) or [dash](https://dash.gallery/Portal/).
 Also see [this sample trading project](https://akurgat-automating-technical-analysis-trade-qn1uzx.streamlit.app/) from a former student. Their [Github link](https://github.com/akurgat/automating-technical-analysis)
 
 Remember the goal is to learn as you do. Aim for working solutions that you fully understand and can reimplement for others.
 
-## EXAM RESOURCES
+## MICROSOFT AI FUNDAMENTALS
+We have created a <strong>30 day challenge</strong> for you to learn how to use Microsoft's cloud platform Azure to perform AI tasks like NLP, Computer Vision etc etc.
 
-#### EXAM WEBSITE
-[Azure AI 900](https://docs.microsoft.com/en-us/certifications/exams/ai-900)
+#### CHALLENGE WEBSITE
+[Azure AI 900](https://learn.microsoft.com/en-us/training/challenges?id=8E1F62A7-99E3-48E4-9EC9-1FFFB99EE9AF&wt.mc_id=cloudskillschallenge_8E1F62A7-99E3-48E4-9EC9-1FFFB99EE9AF)
+
+Please reach out once you are done with the challenge. You can also use the <strong>Virtual training days</strong> to supplement your knowledge.
 
 #### VIRTUAL TRAINING DAYS
-In order to get do the exam for free, you have to register for and attend the <strong>virtual training day</strong> on Azure AI fundamentals. Please read these carefully
+The following virtual training days are available:  I am displaying the timezone 👇 in EAT(GMT+3)
 
-- [ ] Choose one day from the list below that fits into your schedule.
-- [ ] Use the same email you used to register for the training day to also register for the exam.
-- [ ] Please use [Pearson VUE](https://go.microsoft.com/fwlink/?linkid=2187546) to schedule the exam
-- [ ] You have <strong>90 days</strong> after the event to schedule and sit for the exam.
-- [ ] The exam will be monitored online by an individual, that means on the day of the exam , you have good internet connection and a laptop with a camera.
-- [ ] I am displaying the timezone 👇 in EAT(GMT+3)
-
-
-The following virtual training days are available:
-
-* [Tuesday, 21 February 2023, 12:00 PM to 3:40 PM](https://mktoevents.com/Microsoft+Event/370861/157-GQE-382?wt.mc_id=eventscatalog)
-* [Thursday, 2 March 2023, 6:30 AM to 10:00 AM](https://mktoevents.com/Microsoft+Event/378992/157-GQE-382?wt.mc_id=eventscatalog)
+* [Monday, 29 May 2023, 6:00 AM to 9:25 AM](https://mktoevents.com/Microsoft+Event/396048/157-GQE-382?wt.mc_id=eventscatalog)
+* [Monday, 13 June 2023, 9:00 AM to 12:30 PM](https://mktoevents.com/Microsoft+Event/398251/157-GQE-382?wt.mc_id=eventscatalog)
+* [Monday, 13 June 2023, 12:00 PM to 3:40 PM](https://mktoevents.com/Microsoft+Event/396917/157-GQE-382?wt.mc_id=eventscatalog)
+* [Monday, 26 June 2023, 9:00 AM to 12:30 PM](https://mktoevents.com/Microsoft+Event/378992/157-GQE-382?wt.mc_id=eventscatalog)
 
 
 
