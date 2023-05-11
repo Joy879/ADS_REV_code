@@ -45,7 +45,7 @@ Remember the goal is to learn as you do. Aim for working solutions that you full
 We have created a <strong>30 day challenge</strong> for you to learn how to use Microsoft's cloud platform Azure to perform AI tasks like NLP, Computer Vision etc etc.
 
 #### CHALLENGE WEBSITE
-[Azure AI Fundamentals 30 day challenge](https://learn.microsoft.com/en-us/training/challenges?id=8E1F62A7-99E3-48E4-9EC9-1FFFB99EE9AF&wt.mc_id=cloudskillschallenge_8E1F62A7-99E3-48E4-9EC9-1FFFB99EE9AF)
+[Azure AI Fundamentals 30 day challenge](https://learn.microsoft.com/en-us/training/challenges?id=12f32cf8-2cd8-42e1-97dd-001b4a042766&WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766)
 
 Please reach out once you are done with the challenge. You can also use the <strong>Virtual training days</strong> to supplement your knowledge.
 
